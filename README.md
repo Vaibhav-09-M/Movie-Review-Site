@@ -1,8 +1,10 @@
 # Movie-Review-Site
 **Overview**
+
 This project is a dynamic and interactive movie review site developed using full-stack web development. Users can add, update, delete, and view reviews for different movies.
 
 **Technologies Used**
+
 Frontend: HTML, CSS, JavaScript
 Backend: Node.js, Express.js
 Database: MongoDB
