@@ -28,7 +28,7 @@ MongoDB database (you can use MongoDB Atlas for a cloud-based solution).
 
 1. Clone the repository:
    
-git clone https://github.com/yourusername/moviereviewsite.git
+git clone https://github.com/Vaibhav-09-M/Movie-Review-Site.git
 cd moviereviewsite
 
 2. Install dependencies:
